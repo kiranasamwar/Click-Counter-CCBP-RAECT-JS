@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'roboto';
+}
+.description {
+  color: #2d3a35;
+}
+.span-num {
+  color: #c20a72;
+}
+.button {
+  outline: none;
+  cursor: pointer;
+  background-color: #007bff;
+  height: 30px;
+  width: 80px;
+  border: none;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 3px;
+}
